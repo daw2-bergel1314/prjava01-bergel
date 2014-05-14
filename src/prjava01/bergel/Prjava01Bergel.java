@@ -28,7 +28,8 @@ public class Prjava01Bergel {
         bw.write(" </title>");bw.newLine();
         bw.write(" </head>");bw.newLine();
         bw.write(" <body>");bw.newLine();
-        bw.write(" Nova p&agrave;gina web de David Bergel");bw.newLine();
+        bw.write(" Nova p&agrave;gina web de David Bergel Mauriz");bw.newLine();
+        bw.write(" DAW2 UF4 pr&agrave;ctica2");bw.newLine();
         bw.write(" </body>");bw.newLine();
         bw.write("</html>");bw.newLine();
         bw.close();
